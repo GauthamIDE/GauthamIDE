@@ -12,6 +12,9 @@ I'm 21 year developer based in India and I'm passionate about Machine Learning a
     🔹 AI Driven Mental Health Chatbot - A chatbot powered by AI to provide mental health support and guidance.
     🔸 Expense Management System - An application for managing expenses, tracking spending, and generating reports.
     🔹 Railway Reservation System - A system for booking and managing railway tickets, checking schedules, and seat availability.
+This text will be **bold**.
+This text will also be __bold__.
+
 
 ## 📃 Skills
 
