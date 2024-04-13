@@ -9,9 +9,19 @@ Welcome to my GitHub profile! I'm 21 year developer based in India and I'm passi
 
 ## 🔭 Current Projects
 
-    🔹AI Driven Mental Health Chatbot - A chatbot powered by artificial intelligence to provide mental health support and guidance.
+    🔹AI Driven Mental Health Chatbot - A chatbot powered by AI to provide mental health support and guidance.
     🔸Expense Management System - An application for managing expenses, tracking spending, and generating reports.
     🔹Railway Reservation System - A system for booking and managing railway tickets, checking schedules, and seat availability.
+
+## 📃 Skills
+
+    Back End Development | Python, C, C++
+    Front End Development | HTML and CSS
+    Database | MySQL, MongoDB
+    Frameworks | Django, TensorFlow
+    ML Libraries | Numpy, Pandas, Matplotlib, Scikit-Learn
+    Version Control | Git, Github
+    Miscellaneous | Tableau, OOPs
 
 ## 📫 Reach Me
 
