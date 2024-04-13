@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gautham!
 
-Welcome to my GitHub profile! I'm 21 year developer based in India and I'm passionate about Machine Learning and Python Backend Developer. I love exploring new technologies and collaborating on exciting projects.
+I'm 21 year developer based in India and I'm passionate about Machine Learning and Python Backend Developer. I love exploring new technologies and collaborating on exciting projects.
 ## 💼 About Me
 
     💻 I'm currently seeking a job.
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm 21 year developer based in India and I'm passi
 
 ## 📃 Skills
 
-    🔸 **Back End Development** | Python, C, C++
+    🔸 ** Back End Development ** | Python, C, C++
     🔹 **Front End Development** | HTML and CSS
     🔸 **Database** | MySQL, MongoDB
     🔹 **Frameworks** | Django, TensorFlow
